@@ -1,3 +1,4 @@
+<br><br>
 # Examples of running differential expression analyses
 
 *Contact:* [Caleb Lareau](mailto:caleblareau@g.harvard.edu)
@@ -12,3 +13,4 @@ biocLite("limma")
 biocLite("DESeq2")
 ```
 
+<br><br>
